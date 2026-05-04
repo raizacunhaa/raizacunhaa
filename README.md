@@ -88,13 +88,15 @@ Software Development student transitioning into tech, with a background in Educa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
 
 </div>
+
+
 ---
 
 # Languages
 
-🇧🇷 Portuguese — Native  
-🇪🇸 Spanish — Fluent  
-🇺🇸 English — Intermediate  
+Portuguese — Native  
+Spanish — Fluent  
+English — Intermediate  
 
 
 
