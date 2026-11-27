@@ -32,9 +32,6 @@ Software Development student with a background in Education, interested in build
     <td align="center" width="50%">
       <strong>Backend</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,php&perline=6" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Pydantic-75513d?style=flat-square&logo=pydantic&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLAlchemy-75513d?style=flat-square&logo=sqlalchemy&logoColor=white" />
     </td>
     <td align="center" width="50%">
       <strong>Frontend</strong><br/><br/>
@@ -45,28 +42,10 @@ Software Development student with a background in Education, interested in build
     <td align="center" width="50%">
       <strong>Databases</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/SQL_Server-75513d?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-75513d?style=flat-square&logo=supabase&logoColor=white" />
     </td>
-    <td align="center" width="50%">
-      <strong>Data Analysis</strong><br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-75513d?style=flat-square&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-75513d?style=flat-square&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Matplotlib-75513d?style=flat-square&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/Power_BI-75513d?style=flat-square&logo=powerbi&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
     <td align="center" colspan="2">
       <strong>Tools & Testing</strong><br/><br/>
       <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,visualstudio&perline=6" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Alembic-75513d?style=flat-square" />
-      <img src="https://img.shields.io/badge/Pytest-75513d?style=flat-square&logo=pytest&logoColor=white" />
-      <img src="https://img.shields.io/badge/Ruff-75513d?style=flat-square&logo=ruff&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mypy-75513d?style=flat-square" />
-      <img src="https://img.shields.io/badge/Vercel-75513d?style=flat-square&logo=vercel&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -75,12 +54,11 @@ Software Development student with a background in Education, interested in build
 
 ## 🌎 Languages
 
-<p align="center">
-  Portuguese — Native &nbsp; • &nbsp;
-  Spanish — Fluent &nbsp; • &nbsp;
-  English — Intermediate
-</p>
+- Portuguese — Native 
+- Spanish — Fluent
+- English — Intermediate
 
+---
 <p align="center">
   <i>Always learning, building and improving. 🤎</i>
 </p>
