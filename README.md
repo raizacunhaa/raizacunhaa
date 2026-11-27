@@ -11,6 +11,9 @@
   <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+    <a href="mailto:raaizacunha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-75513d?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
