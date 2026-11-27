@@ -15,7 +15,7 @@
 
 Software Development student with a background in Education and an interest in building software solutions and working with data.
 
-- 🎓 Studying Software Development with a background in Education
+- 🎓 Studying Software Development 
 - 💻 Backend development with Python
 - 📊 Interested in Data Analytics and Data Science
 - 🤝 Volunteer Backend Developer at Café Bugado
@@ -23,18 +23,14 @@ Software Development student with a background in Education and an interest in b
 
 ## Connect with me
 
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=75513d&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
   </a>
   <a href="https://github.com/raizacunhaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=75513d&logoColor=white&style=for-the-badge" height="25" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-75513d?style=for-the-badge&logo=github&logoColor=white" height="28" />
   </a>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
+</p>
 
 ## Tech & Tools
 
