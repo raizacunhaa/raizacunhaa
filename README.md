@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
     <a href="mailto:raaizacunha@gmail.com">
-    <img src="https://img.shields.io/badge/Email-75513d?style=for-the-badge&logo=maildotru&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉_Email-75513d?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
