@@ -1,5 +1,4 @@
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
-![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
 
 <h1 align="center">Hi! I'm Raiza 🤎</h1>
 
