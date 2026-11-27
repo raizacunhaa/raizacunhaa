@@ -1,107 +1,86 @@
+
 ![](https://capsule-render.vercel.app/api?type=waving&height=140&color=75513d&textBg=false&fontAlign=0&fontAlignY=0&descAlign=0&descAlignY=0)
+
 <h1 align="center">Hi! I'm Raiza 🤎</h1>
 
-###
+<p align="center">
+  <strong>Software Development Student | Backend Python | Data Analytics</strong>
+</p>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#   About Me
-
-Software Development student transitioning into tech, with a background in Education.
-
-- 🎓 Background in Education
-- 🔄 Career transition to IT
-- 💻 Building projects and learning by doing
-- 🎯 Looking for a Trainee / Internship opportunity in Development or Data 
-
-
----
-
-#   Connect with me
-
-<div align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=brown&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/raizacunhaa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-##  Tech & Tools
-
-<div align="left">
-
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" />
-
-  <img width="20" />
-
-  <!-- Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" />
-
-  <img width="20" />
-
-  <!-- Web -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-
-  <img width="20" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" />
-
-  <img width="20" />
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="35" />
-
-  <img width="20" />
-
-  <!-- OS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="35" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" />
-
-</div>
-
+</p>
 
 ---
 
-# Languages
+## 👩🏻‍💻 About Me
 
-Portuguese — Native  
-Spanish — Fluent  
-English — Intermediate  
+Software Development student with a background in Education, interested in building software solutions and working with data.
 
+- 💻 Volunteer Backend Developer at Café Bugado
+- 📊 Interested in Data Analytics and Data Science
+- 🎯 Open to Internship and Trainee opportunities in Development or Data
 
+---
 
-</div>
-</td>
-</tr>
+<h2 align="center">⚙️ Tech Stack</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,java,cs,dotnet,php&perline=6" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Pydantic-75513d?style=flat-square&logo=pydantic&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLAlchemy-75513d?style=flat-square&logo=sqlalchemy&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=3" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/SQL_Server-75513d?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+      <img src="https://img.shields.io/badge/Supabase-75513d?style=flat-square&logo=supabase&logoColor=white" />
+    </td>
+    <td align="center" width="50%">
+      <strong>Data Analysis</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Pandas-75513d?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/NumPy-75513d?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Matplotlib-75513d?style=flat-square&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_BI-75513d?style=flat-square&logo=powerbi&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <strong>Tools & Testing</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,githubactions,vscode,visualstudio&perline=6" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Alembic-75513d?style=flat-square" />
+      <img src="https://img.shields.io/badge/Pytest-75513d?style=flat-square&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ruff-75513d?style=flat-square&logo=ruff&logoColor=white" />
+      <img src="https://img.shields.io/badge/Mypy-75513d?style=flat-square" />
+      <img src="https://img.shields.io/badge/Vercel-75513d?style=flat-square&logo=vercel&logoColor=white" />
+    </td>
+  </tr>
 </table>
-</div>
+
+---
+
+## 🌎 Languages
+
+<p align="center">
+  Portuguese — Native &nbsp; • &nbsp;
+  Spanish — Fluent &nbsp; • &nbsp;
+  English — Intermediate
+</p>
+
+<p align="center">
+  <i>Always learning, building and improving. 🤎</i>
+</p>
