@@ -21,16 +21,6 @@ Software Development student with a background in Education and an interest in b
 - 🤝 Volunteer Backend Developer at Café Bugado
 - 🎯 Open to Internship and Trainee opportunities in Development or Data
 
-## Connect with me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-  <a href="https://github.com/raizacunhaa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-75513d?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
-</p>
 
 ## Tech & Tools
 
@@ -72,6 +62,17 @@ Software Development student with a background in Education and an interest in b
   <img src="https://skillicons.dev/icons?i=git,github,docker,supabase,githubactions,vscode,visualstudio" />
   <br>
   SQLAlchemy · Pydantic · Alembic · Pytest · Ruff · Mypy
+</p>
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
+  </a>
+  <a href="https://github.com/raizacunhaa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-75513d?style=for-the-badge&logo=github&logoColor=white" height="28" />
+  </a>
 </p>
 
 ## Languages
