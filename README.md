@@ -15,7 +15,7 @@
 
 Software Development student with a background in Education and an interest in building software solutions and working with data.
 
-- 🎓 Studying Software Development (5th semester)
+- 🎓 Studying Software Development with a background in Education
 - 💻 Backend development with Python
 - 📊 Interested in Data Analytics and Data Science
 - 🤝 Volunteer Backend Developer at Café Bugado
