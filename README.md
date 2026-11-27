@@ -8,11 +8,12 @@
 </p>
 
 <p align="center">
+  <strong>Contact: raaizacunha@gmail.com</strong>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/raizacunhaa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-75513d?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-    <a href="mailto:raaizacunha@gmail.com">
-    <img src="https://img.shields.io/badge/✉_Email-75513d?style=for-the-badge&logoColor=white" />
   </a>
 </p>
 
